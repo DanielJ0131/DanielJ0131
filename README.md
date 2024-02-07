@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielJ0131
 - 👀 I’m interested in Music, Producing, Gaming and obviously programming!
-- 🌱 I’m currently learning Software Development in Kristianstad
+- 🌱 I’m currently studying Software Development in Kristianstad
 - 💞️ I’m looking to collaborate on anything to do with code, that I can have a learning experience from ^^
 - 📫 How to reach me; @Discord - danii_23
 - 😄 Pronouns: he/him
