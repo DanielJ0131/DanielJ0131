@@ -5,8 +5,7 @@
 - 📫 How to reach me; @Discord - danii_23
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a quick learner xD
-- Recently got into Linux with the Debian distro
-
+- Dual-booting Windows/Linux-Debian
 <!---
 DanielJ0131/DanielJ0131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
