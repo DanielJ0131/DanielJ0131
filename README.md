@@ -6,6 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a quick learner!
 - 🤖 Debian-Linux and Windows Enjoyer!
+- 🍁 At the moment, I'm learning about SQL, Databases and Agile Development Methods!
 <!---
 DanielJ0131/DanielJ0131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
