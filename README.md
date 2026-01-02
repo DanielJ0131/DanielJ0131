@@ -5,7 +5,6 @@
 - 📫 How to reach me; @Discord - danii_23
 - 😄 Pronouns: he/him
 - 🤖 Linux enjoyer
-- 🍁 At the moment, I'm learning Development of Mobile Applications & Machine Learning 
 <!---
 DanielJ0131/DanielJ0131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
