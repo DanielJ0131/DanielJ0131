@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielJ0131
-- 👀 I’m interested in Music, Producing, Gaming and obviously programming!
+- 👀 I’m interested in Music, Producing, Gaming and programming!
 - 🌱 I’m currently studying my third year of Software Development in Kristianstad
 - 💞️ I’m looking to collaborate on anything to do with code, that I can have a learning experience from ^^
 - 📫 How to reach me; @Discord - danii_23
