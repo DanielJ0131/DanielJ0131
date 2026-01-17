@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DanielJ0131
-- 👀 I’m interested in Music, Producing, Gaming and Programming!
-- 🌱 I’m currently studying my third year of Software Development in Kristianstad
+### 👋 Hi, I’m @DanielJ0131
+## I’m interested in Music, Producing, Gaming and Programming!
+## I’m currently studying my third year of Software Development in Kristianstad
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonsson-dj) - jonsson-dj
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white) - danii_23 
