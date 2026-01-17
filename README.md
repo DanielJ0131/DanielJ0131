@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @DanielJ0131
 - I’m interested in Music, Producing, Gaming and Programming!
-- I’m currently studying my third year of Software Development in Kristianstad
+- I’m currently studying my third year of Software Development in Kristianstad University
 - Aspiring Software Engineer
 
 ## 🌐 Socials:
