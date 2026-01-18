@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Daniel!
-- Currently studying my third year of Software Development at Kristianstad University.
-- Interested in Music, Producing, Gaming and Programming!
-- Aspiring Software Engineer.
+- Currently studying my third year of Software Development at Kristianstad University
+- Interested in Music, Producing, Gaming and Programming
+- Aspiring Software Engineer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonsson-dj) - jonsson-dj 
