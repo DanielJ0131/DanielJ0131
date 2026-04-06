@@ -39,7 +39,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DanielJ0131&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DanielJ0131&theme=dracula&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJ0131&theme=dracula&layout=compact&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJ0131&theme=dracula&layout=compact&hide_border=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
