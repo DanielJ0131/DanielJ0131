@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Daniel!
 - Currently working at Axis Communications as a Software Engineer
 - Interested in Music, Producing, Gaming and Programming
-- Software Engineer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonsson-dj) - jonsson-dj 
